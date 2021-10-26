@@ -2,7 +2,7 @@ package edu.play;
 
 public class Calculation {
 
-	public void Gugudan1() {
+	public void gugudan1() {
 		
 		for (int i = 2; i <= 9; i++) {
 			
