@@ -8,4 +8,15 @@ public class Calculation {
 			}
 		}
 	}
+	
+	public void numberArr() {
+		int numArr[] = {1,2,3,4,5};
+		int result = 0; 
+		
+		System.out.print(numArr.toString() + "->");
+		for(int i = 0; i < numArr.length; i++) {
+			result += numArr[i];
+			System.out.print(result);
+		}
+	}
 }
