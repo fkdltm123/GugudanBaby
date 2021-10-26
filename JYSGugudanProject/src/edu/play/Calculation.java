@@ -2,7 +2,7 @@ package edu.play;
 
 public class Calculation {
 
-	public void Gugudan1() {
+	public void gugudan1() {
 		
 		for (int i = 2; i <= 9; i++) {
 			
@@ -32,8 +32,8 @@ public class Calculation {
 			System.out.println();
 		}
 	}
-	
-//<<<<<<< HEAD
+
+
 	public void numberArr() {
 		int numArr[] = {1,2,3,4,5};
 		int result = 0; 
@@ -44,7 +44,5 @@ public class Calculation {
 			System.out.print(result);
 		}
 	}
-//=======
-//	
-//>>>>>>> branch 'main' of https://github.com/fkdltm123/GugudanBaby.git
+	
 }
