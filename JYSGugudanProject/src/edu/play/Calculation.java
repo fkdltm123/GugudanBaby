@@ -33,8 +33,8 @@ public class Calculation {
 			System.out.println();
 		}
 	}
-	
-//<<<<<<< HEAD
+
+
 	public void numberArr() {
 		int numArr[] = {1,2,3,4,5};
 		int result = 0; 
