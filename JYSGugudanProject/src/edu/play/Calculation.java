@@ -10,6 +10,7 @@ public class Calculation {
 				
 				System.out.println(i * j);
 			}
+			System.out.println();
 			
 		}
 		
